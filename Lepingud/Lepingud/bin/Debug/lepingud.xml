@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfLeping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Leping>
+    <Nimi>Margus Luik</Nimi>
+    <Amet>arst</Amet>
+    <Kuup2ev>20-05-2019</Kuup2ev>
+    <Kestvus>20-05-2020</Kestvus>
+    <Palk>222</Palk>
+  </Leping>
+  <Leping>
+    <Nimi>Karl Jaansoo</Nimi>
+    <Amet>õpetaja</Amet>
+    <Kuup2ev>23-05-2019</Kuup2ev>
+    <Kestvus>20-02-2020</Kestvus>
+    <Palk>1400</Palk>
+  </Leping>
+</ArrayOfLeping>
